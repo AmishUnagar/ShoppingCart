@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash ",
+      "description": "The Essence s a popular mascara known for its volumizing and lengthening effects.",
+      "price": 9.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with ",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades.",
+      "price": 19.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "A finely milled setting powder designed to set makeup and control shine.",
+      "price": 14.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "A classic bold red lipstick with a creamy and pigmented formula.",
+      "price": 12.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "Glossy red nail polish with a quick-drying formula.",
+      "price": 8.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "A classic unisex fragrance with a fresh and clean scent.",
+      "price": 49.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "description": "An elegant and mysterious fragrance ideal for evening wear.",
+      "price": 129.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "A luxurious floral fragrance symbolizing femininity.",
+      "price": 89.99,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+      "quantity": 1
+    }  
+     
+  ]
+}
